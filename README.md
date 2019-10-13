@@ -1,4 +1,5 @@
 # Team 30 Topic B Crowdfunding
+This project is a web-database CRUD prototype application for crowdfunding (for NUS CS2102 Database Systems project).
 
 # Dependencies
 + Bitnami WAPP (PostgreSQL version)
